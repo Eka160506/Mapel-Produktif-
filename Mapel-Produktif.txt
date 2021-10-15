@@ -1,6 +1,6 @@
-Mata Pelajaran Produktif
-1. Simulasi dan Komunikasi Digital
-2. Pemrograman Dasar
-3. Komputer jaringan Dasar
-4. Dasar Desain Grafis
-5. Sistem Komputer
+Kompetensi SDKD
+a. komunikasi Daring Sinkron
+- Line
+b. Komunikasi Daring Asinkron
+c. Github
+d. Git
